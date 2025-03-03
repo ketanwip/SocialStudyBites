@@ -566,6 +566,224 @@
       "description": "The Supreme Court unanimously ruled that racial segregation in public schools was unconstitutional, overturning the 'separate but equal' doctrine.",
       "why": "The NAACP and African American parents challenged segregated schools, and the Court concluded that separate educational facilities were inherently unequal and violated the 14th Amendment.",
       "standards": "SS5H6.b"
+    },
+    {
+      "id": "coldwar5",
+      "year": 1955,
+      "era": "Cold War Era",
+      "title": "Montgomery Bus Boycott",
+      "description": "African Americans in Montgomery, Alabama boycotted the city buses for over a year after Rosa Parks was arrested for refusing to give up her seat to a white passenger.",
+      "why": "African Americans were tired of segregation and unequal treatment on public transportation. The boycott became a pivotal moment in the Civil Rights Movement and launched Martin Luther King Jr. as a national leader.",
+      "standards": "SS5H6.b"
+    },
+    {
+      "id": "coldwar6",
+      "year": 1957,
+      "era": "Cold War Era",
+      "title": "Little Rock Nine",
+      "description": "Nine African American students faced angry mobs when attempting to integrate Central High School in Little Rock, Arkansas, requiring federal troops to protect them.",
+      "why": "Despite the Brown v. Board decision, many southern states resisted school integration. President Eisenhower had to send federal troops to enforce the law when the Arkansas governor used the National Guard to block integration.",
+      "standards": "SS5H6.b"
+    },
+    {
+      "id": "coldwar7",
+      "year": 1962,
+      "era": "Cold War Era",
+      "title": "Cuban Missile Crisis",
+      "description": "The United States and Soviet Union came to the brink of nuclear war after the U.S. discovered Soviet nuclear missiles in Cuba.",
+      "why": "The Soviet Union placed missiles in Cuba to counter U.S. missiles in Turkey and to protect Cuba from another U.S.-backed invasion attempt after the failed Bay of Pigs invasion.",
+      "standards": "SS5H6.a"
+    },
+    {
+      "id": "coldwar8",
+      "year": 1963,
+      "era": "Cold War Era",
+      "title": "March on Washington",
+      "description": "More than 250,000 people participated in a march for jobs and freedom in Washington, D.C., where Martin Luther King Jr. delivered his famous 'I Have a Dream' speech.",
+      "why": "Civil rights leaders organized the march to pressure Congress to pass civil rights legislation and to bring national attention to the ongoing struggle for racial equality and economic justice.",
+      "standards": "SS5H6.c"
+    },
+    {
+      "id": "coldwar9",
+      "year": 1964,
+      "era": "Cold War Era",
+      "title": "Civil Rights Act",
+      "description": "Congress passed the Civil Rights Act, prohibiting discrimination based on race, color, religion, sex, or national origin in public accommodations, facilities, and schools.",
+      "why": "After years of civil rights activism, televised images of police brutality against peaceful protesters, and President Kennedy's assassination, President Johnson used his political skills to pass this landmark legislation.",
+      "standards": "SS5H6.c"
+    },
+    {
+      "id": "coldwar10",
+      "year": 1965,
+      "era": "Cold War Era",
+      "title": "Voting Rights Act",
+      "description": "The Voting Rights Act outlawed discriminatory voting practices that had been used to disenfranchise African Americans, particularly in the South.",
+      "why": "Despite the 15th Amendment, many states used literacy tests, poll taxes, and intimidation to prevent African Americans from voting. TV coverage of violence against voting rights marchers in Selma, Alabama helped build support for the law.",
+      "standards": "SS5H6.c"
+    },
+    {
+      "id": "coldwar11",
+      "year": 1968,
+      "era": "Cold War Era",
+      "title": "Assassination of Martin Luther King Jr.",
+      "description": "Civil rights leader Martin Luther King Jr. was assassinated in Memphis, Tennessee, sparking riots in many American cities.",
+      "why": "King's assassination removed a powerful advocate for nonviolent social change and reflected the violent resistance to the civil rights movement, devastating communities and leaving a leadership void.",
+      "standards": "SS5H6.c"
+    },
+    {
+      "id": "coldwar12",
+      "year": 1969,
+      "era": "Cold War Era",
+      "title": "Moon Landing",
+      "description": "American astronauts Neil Armstrong and Buzz Aldrin became the first humans to walk on the moon during the Apollo 11 mission.",
+      "why": "The space race began as a Cold War competition after the Soviet Union launched Sputnik in 1957. President Kennedy had set a goal to reach the moon by the end of the 1960s, and Apollo 11 fulfilled that vision.",
+      "standards": "SS5H6.d"
+    },
+    {
+      "id": "coldwar13",
+      "year": 1973,
+      "era": "Cold War Era",
+      "title": "End of Vietnam War for U.S.",
+      "description": "The United States signed the Paris Peace Accords, ending direct U.S. military involvement in the Vietnam War.",
+      "why": "After years of escalating U.S. involvement and mounting casualties, domestic opposition to the war and the failure to achieve decisive military victory led to a negotiated withdrawal.",
+      "standards": "SS5H6.e"
+    },
+    {
+      "id": "coldwar14",
+      "year": 1974,
+      "era": "Cold War Era",
+      "title": "Nixon Resigns",
+      "description": "President Richard Nixon resigned following the Watergate scandal, becoming the only U.S. president to resign from office.",
+      "why": "Investigations revealed Nixon's involvement in covering up a break-in at Democratic National Committee headquarters and other abuses of power, leading to impeachment proceedings and his resignation.",
+      "standards": "SS5H6.e"
+    },
+    {
+      "id": "coldwar15",
+      "year": 1989,
+      "era": "Cold War Era",
+      "title": "Fall of the Berlin Wall",
+      "description": "The Berlin Wall, which had divided East and West Berlin since 1961, was opened as East Germany's communist government allowed citizens to cross freely into West Berlin.",
+      "why": "Reforms in the Soviet Union, peaceful protests throughout Eastern Europe, and East Germany's failing economy led to the collapse of communist authority and the opening of the border.",
+      "standards": "SS5H6.e"
+    },
+    {
+      "id": "coldwar16",
+      "year": 1991,
+      "era": "Cold War Era",
+      "title": "Dissolution of the Soviet Union",
+      "description": "The Soviet Union formally dissolved, ending the Cold War and creating 15 independent nations from the former Soviet republics.",
+      "why": "Economic problems, nationalist movements in Soviet republics, failed reforms, and the collapse of communist regimes in Eastern Europe led to the breakup of the Soviet Union.",
+      "standards": "SS5H6.e"
+    },
+    {
+      "id": "modern1",
+      "year": 1991,
+      "era": "Modern America",
+      "title": "Gulf War",
+      "description": "The United States led a coalition of nations to liberate Kuwait after Iraq invaded and annexed it.",
+      "why": "Iraq invaded Kuwait to seize its oil wealth and resolve border disputes. The U.S. and allies intervened to defend Kuwait's sovereignty and protect oil supplies.",
+      "standards": "SS5H7.a"
+    },
+    {
+      "id": "modern2",
+      "year": 2001,
+      "era": "Modern America",
+      "title": "September 11 Attacks",
+      "description": "Terrorists hijacked four commercial airplanes, crashing two into the World Trade Center in New York City, one into the Pentagon, and one in Pennsylvania after passengers fought back.",
+      "why": "The terrorist group al-Qaeda, led by Osama bin Laden, attacked America due to opposition to U.S. military presence in the Middle East, support for Israel, and other grievances against American foreign policy.",
+      "standards": "SS5H7.a"
+    },
+    {
+      "id": "modern3",
+      "year": 2001,
+      "era": "Modern America",
+      "title": "War in Afghanistan",
+      "description": "After the 9/11 attacks, the United States invaded Afghanistan to dismantle al-Qaeda and remove the Taliban government that had sheltered them.",
+      "why": "The Taliban refused to hand over Osama bin Laden and other al-Qaeda leaders responsible for the 9/11 attacks, leading the U.S. to take military action.",
+      "standards": "SS5H7.a"
+    },
+    {
+      "id": "modern4",
+      "year": 2003,
+      "era": "Modern America",
+      "title": "Iraq War Begins",
+      "description": "The United States led an invasion of Iraq, quickly toppling Saddam Hussein's government but becoming involved in a lengthy occupation and insurgency.",
+      "why": "The Bush administration claimed Iraq possessed weapons of mass destruction and had links to terrorism, though these claims proved unfounded. Other motives included establishing democracy in the Middle East and securing oil supplies.",
+      "standards": "SS5H7.a"
+    },
+    {
+      "id": "modern5",
+      "year": 2005,
+      "era": "Modern America",
+      "title": "Hurricane Katrina",
+      "description": "Hurricane Katrina devastated New Orleans and the Gulf Coast, becoming one of the deadliest and most costly natural disasters in U.S. history.",
+      "why": "The powerful hurricane overwhelmed levees protecting New Orleans, while inadequate evacuation plans and a slow, disorganized government response contributed to the high death toll and widespread suffering.",
+      "standards": "SS5H7.b"
+    },
+    {
+      "id": "modern6",
+      "year": 2008,
+      "era": "Modern America",
+      "title": "Great Recession",
+      "description": "The worst economic downturn since the Great Depression began with the collapse of the housing market and several major financial institutions.",
+      "why": "The crisis stemmed from risky mortgage lending practices, complex financial derivatives, inadequate regulation, and excessive risk-taking by financial institutions.",
+      "standards": "SS5H7.b"
+    },
+    {
+      "id": "modern7",
+      "year": 2008,
+      "era": "Modern America",
+      "title": "Election of Barack Obama",
+      "description": "Barack Obama was elected as the first African American president of the United States.",
+      "why": "Obama's message of hope and change resonated with voters during the economic crisis, and his election represented a historic milestone in a nation that had once permitted slavery and segregation.",
+      "standards": "SS5H7.c"
+    },
+    {
+      "id": "modern8",
+      "year": 2010,
+      "era": "Modern America",
+      "title": "Affordable Care Act",
+      "description": "Congress passed the Affordable Care Act, the most significant overhaul of the U.S. healthcare system since Medicare and Medicaid in the 1960s.",
+      "why": "The law aimed to expand healthcare coverage to millions of uninsured Americans, control healthcare costs, and improve healthcare quality through insurance reforms and subsidies.",
+      "standards": "SS5H7.c"
+    },
+    {
+      "id": "modern9",
+      "year": 2011,
+      "era": "Modern America",
+      "title": "Osama bin Laden Killed",
+      "description": "U.S. special forces killed Osama bin Laden, the leader of al-Qaeda and mastermind of the September 11 attacks, in a raid on his compound in Pakistan.",
+      "why": "After nearly a decade of searching, intelligence located bin Laden's hideout, and President Obama authorized the raid to bring the 9/11 mastermind to justice.",
+      "standards": "SS5H7.a"
+    },
+    {
+      "id": "modern10",
+      "year": 2015,
+      "era": "Modern America",
+      "title": "Same-Sex Marriage Legalized",
+      "description": "The Supreme Court ruled in Obergefell v. Hodges that the fundamental right to marry is guaranteed to same-sex couples.",
+      "why": "After decades of LGBTQ+ activism and evolving public opinion, the Court determined that denying marriage rights to same-sex couples violated the Constitution's equal protection and due process clauses.",
+      "standards": "SS5H7.c"
+    },
+    {
+      "id": "modern11",
+      "year": 2020,
+      "era": "Modern America",
+      "title": "COVID-19 Pandemic",
+      "description": "The COVID-19 pandemic caused a global health crisis, with the United States experiencing hundreds of thousands of deaths and major economic disruption.",
+      "why": "The highly contagious novel coronavirus spread worldwide, overwhelming healthcare systems and forcing unprecedented lockdowns and public health measures to contain its spread.",
+      "standards": "SS5H7.b"
+    },
+    {
+      "id": "modern12",
+      "year": 2021,
+      "era": "Modern America",
+      "title": "January 6 Capitol Riot",
+      "description": "Protesters violently stormed the U.S. Capitol to disrupt the certification of the 2020 presidential election results.",
+      "why": "Following the 2020 election, some supporters of President Trump believed false claims of widespread election fraud and attempted to prevent the peaceful transfer of power.",
+      "standards": "SS5H7.c"
     }
-  ]
+  ],
+  "lastUpdated": "2025-03-03T12:00:00Z"
 }
+  
