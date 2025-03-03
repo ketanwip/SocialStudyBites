@@ -5,10 +5,567 @@
       "year": 1607,
       "era": "Colonial America",
       "title": "Jamestown Settlement",
-      "description": "English settlers established the first permanent English colony in North America at Jamestown, Virginia.",
-      "why": "England wanted to establish colonies in North America to compete with Spain and France for resources, trade, and territory in the New World.",
+      "description": "The first permanent English settlement in North America was established at Jamestown, Virginia. The Virginia Company sponsored the colony for economic profit.",
+      "why": "England wanted to establish colonies in the New World to compete with Spain and France for resources, wealth, and territory while expanding their empire.",
       "standards": "SS5H1.a"
+    },
+    {
+      "id": "colonial2",
+      "year": 1620,
+      "era": "Colonial America",
+      "title": "Plymouth Colony & Mayflower Compact",
+      "description": "The Pilgrims landed at Plymouth and created the Mayflower Compact, an early example of self-government and rule by the consent of the governed.",
+      "why": "The Pilgrims, seeking religious freedom, accidentally landed north of their intended Virginia destination and needed to establish legitimate governance outside the Virginia Company's territory.",
+      "standards": "SS5H1.a"
+    },
+    {
+      "id": "colonial3",
+      "year": 1733,
+      "era": "Colonial America",
+      "title": "Georgia Colony Established",
+      "description": "James Oglethorpe founded Georgia as the 13th and final British colony in North America, initially as a haven for debtors and the 'worthy poor.'",
+      "why": "Georgia was intended as both a philanthropic refuge for the poor and a strategic buffer colony to protect the valuable Carolinas from Spanish Florida.",
+      "standards": "SS5H1.a"
+    },
+    {
+      "id": "colonial4",
+      "year": 1754,
+      "era": "Colonial America",
+      "title": "French and Indian War Begins",
+      "description": "Conflict erupted between British colonists and French forces (with Native American allies) over control of the Ohio River Valley.",
+      "why": "Both Britain and France wanted to control this resource-rich territory, leading to what became part of the larger Seven Years' War.",
+      "standards": "SS5H1.b"
+    },
+    {
+      "id": "colonial5",
+      "year": 1763,
+      "era": "Colonial America",
+      "title": "End of French and Indian War",
+      "description": "The Treaty of Paris ended the French and Indian War, with France ceding its North American territory to Britain and Spain.",
+      "why": "Britain's victory dramatically changed North America's political landscape and left Britain with enormous war debts that would lead to new colonial taxes.",
+      "standards": "SS5H1.b"
+    },
+    {
+      "id": "colonial6",
+      "year": 1764,
+      "era": "Colonial America",
+      "title": "Sugar Act",
+      "description": "Britain imposed the Sugar Act, taxing molasses and sugar imported to the colonies to help pay war debts.",
+      "why": "Britain needed to generate revenue to pay for the French and Indian War and to finance the administration of its newly expanded North American empire.",
+      "standards": "SS5H1.b"
+    },
+    {
+      "id": "colonial7",
+      "year": 1765,
+      "era": "Colonial America",
+      "title": "Stamp Act Crisis",
+      "description": "The British Parliament passed the Stamp Act, requiring colonists to pay a tax on every piece of printed paper they used, sparking widespread protests.",
+      "why": "Britain continued to seek ways to generate revenue from the colonies, but colonists objected to being taxed without having representatives in Parliament.",
+      "standards": "SS5H1.b"
+    },
+    {
+      "id": "colonial8",
+      "year": 1773,
+      "era": "American Revolution",
+      "title": "Boston Tea Party",
+      "description": "Colonists disguised as Native Americans dumped 342 chests of British tea into Boston Harbor to protest British tax policies.",
+      "why": "The Tea Act granted the British East India Company a monopoly on tea sales, undercutting colonial merchants while maintaining the tea tax that symbolized Parliament's authority to tax colonists without representation.",
+      "standards": "SS5H1.b"
+    },
+    {
+      "id": "revolution1",
+      "year": 1774,
+      "era": "American Revolution",
+      "title": "Intolerable Acts",
+      "description": "Britain passed the Coercive Acts (called 'Intolerable Acts' by colonists) to punish Massachusetts after the Boston Tea Party, closing Boston Harbor and restricting town meetings.",
+      "why": "Parliament wanted to assert its authority and punish Massachusetts for the destruction of British property, but these harsh measures only united the colonies further against Britain.",
+      "standards": "SS5H1.b"
+    },
+    {
+      "id": "revolution2",
+      "year": 1775,
+      "era": "American Revolution",
+      "title": "Battles of Lexington and Concord",
+      "description": "The first military engagements of the American Revolutionary War occurred at Lexington and Concord, Massachusetts.",
+      "why": "British troops were sent to confiscate colonial weapons and arrest leaders, but colonial militias were warned by Paul Revere and others, leading to armed resistance.",
+      "standards": "SS5H1.c"
+    },
+    {
+      "id": "revolution3",
+      "year": 1775,
+      "era": "American Revolution",
+      "title": "Second Continental Congress",
+      "description": "Delegates from the colonies met in Philadelphia and established the Continental Army with George Washington as commander.",
+      "why": "With fighting underway, the colonies needed to organize a unified military response and coordinate their resistance to British authority.",
+      "standards": "SS5H1.c"
+    },
+    {
+      "id": "revolution4",
+      "year": 1776,
+      "era": "American Revolution",
+      "title": "Declaration of Independence",
+      "description": "The Continental Congress adopted the Declaration of Independence, written primarily by Thomas Jefferson, formally announcing the colonies' separation from Great Britain.",
+      "why": "After years of increasing tensions and with reconciliation seeming impossible, colonial leaders decided to formally declare independence to gain international recognition and support.",
+      "standards": "SS5H1.c"
+    },
+    {
+      "id": "revolution5",
+      "year": 1777,
+      "era": "American Revolution",
+      "title": "Battle of Saratoga",
+      "description": "American forces defeated British troops in upstate New York in what is considered the turning point of the Revolutionary War.",
+      "why": "This major American victory convinced France to formally ally with the Americans against Britain, providing crucial military and financial support.",
+      "standards": "SS5H1.c"
+    },
+    {
+      "id": "revolution6",
+      "year": 1781,
+      "era": "American Revolution",
+      "title": "Battle of Yorktown",
+      "description": "General Washington's forces, with French assistance, defeated British General Cornwallis at Yorktown, Virginia, effectively ending major fighting in the Revolutionary War.",
+      "why": "After years of war and facing a combined American-French force, Britain was no longer able to sustain its military campaign in North America.",
+      "standards": "SS5H1.c"
+    },
+    {
+      "id": "revolution7",
+      "year": 1783,
+      "era": "American Revolution",
+      "title": "Treaty of Paris",
+      "description": "Great Britain formally recognized American independence in the Treaty of Paris, which established boundaries and addressed other post-war issues.",
+      "why": "After the military defeat at Yorktown and facing war with multiple European powers, Britain accepted American independence and sought to establish peaceful relations.",
+      "standards": "SS5H1.c"
+    },
+    {
+      "id": "nation1",
+      "year": 1781,
+      "era": "A New Nation",
+      "title": "Articles of Confederation",
+      "description": "The first constitution of the United States established a loose confederation of states with a weak central government.",
+      "why": "Having just fought against a strong central authority (the British monarchy), Americans were cautious about creating another powerful central government.",
+      "standards": "SS5H2.a"
+    },
+    {
+      "id": "nation2",
+      "year": 1787,
+      "era": "A New Nation",
+      "title": "Constitutional Convention",
+      "description": "Delegates met in Philadelphia to revise the Articles of Confederation but instead created an entirely new constitution with a stronger federal government.",
+      "why": "The Articles of Confederation proved inadequate for governing the nation, with problems including inability to collect taxes, regulate trade, or enforce laws.",
+      "standards": "SS5H2.a"
+    },
+    {
+      "id": "nation3",
+      "year": 1788,
+      "era": "A New Nation",
+      "title": "Constitution Ratified",
+      "description": "The Constitution was ratified by the required nine states, establishing the framework for the U.S. government that continues today.",
+      "why": "The Federalist Papers and the promise to add a Bill of Rights helped persuade states to ratify the Constitution despite concerns about centralized power.",
+      "standards": "SS5H2.a"
+    },
+    {
+      "id": "nation4",
+      "year": 1789,
+      "era": "A New Nation",
+      "title": "Washington's Presidency",
+      "description": "George Washington was unanimously elected as the first President of the United States under the new Constitution.",
+      "why": "As the respected leader of the Continental Army, Washington was trusted to establish precedents for the new office without becoming a monarch.",
+      "standards": "SS5H2.b"
+    },
+    {
+      "id": "nation5",
+      "year": 1791,
+      "era": "A New Nation",
+      "title": "Bill of Rights Added",
+      "description": "The first ten amendments to the Constitution, known as the Bill of Rights, were ratified to protect individual liberties.",
+      "why": "Many states had demanded these protections as a condition for ratifying the Constitution, fearing the new government might abuse its power.",
+      "standards": "SS5H2.a"
+    },
+    {
+      "id": "nation6",
+      "year": 1794,
+      "era": "A New Nation",
+      "title": "Whiskey Rebellion",
+      "description": "Farmers in western Pennsylvania protested a tax on whiskey, and President Washington sent militia forces to suppress the rebellion.",
+      "why": "This crisis tested the new government's authority to enforce federal law and collect taxes, demonstrating the strength of the federal government.",
+      "standards": "SS5H2.b"
+    },
+    {
+      "id": "nation7",
+      "year": 1803,
+      "era": "A New Nation",
+      "title": "Louisiana Purchase",
+      "description": "President Thomas Jefferson purchased the Louisiana Territory from France for $15 million, doubling the size of the United States.",
+      "why": "Jefferson wanted to secure American access to the Mississippi River and the port of New Orleans, but Napoleon offered to sell the entire territory as France needed funds for European wars.",
+      "standards": "SS5H2.c"
+    },
+    {
+      "id": "nation8",
+      "year": 1804,
+      "era": "A New Nation",
+      "title": "Lewis and Clark Expedition",
+      "description": "Meriwether Lewis and William Clark led an expedition to explore the newly acquired Louisiana Territory and find a route to the Pacific Ocean.",
+      "why": "Jefferson wanted to learn about the geography, natural resources, and native peoples of the western territories while establishing an American claim to the Pacific Northwest.",
+      "standards": "SS5H2.c"
+    },
+    {
+      "id": "nation9",
+      "year": 1812,
+      "era": "A New Nation",
+      "title": "War of 1812",
+      "description": "The United States went to war with Great Britain over maritime issues and western expansion, culminating in the British burning Washington D.C. and the Battle of New Orleans.",
+      "why": "Britain was impressing American sailors and allegedly encouraging Native American resistance to western settlement during the Napoleonic Wars.",
+      "standards": "SS5H2.c"
+    },
+    {
+      "id": "nation10",
+      "year": 1823,
+      "era": "A New Nation",
+      "title": "Monroe Doctrine",
+      "description": "President James Monroe declared that European powers should no longer colonize or interfere with the affairs of independent nations in the Americas.",
+      "why": "The United States wanted to prevent European powers from reestablishing colonies in the Americas while asserting itself as the dominant power in the Western Hemisphere.",
+      "standards": "SS5H2.c"
+    },
+    {
+      "id": "nation11",
+      "year": 1830,
+      "era": "A New Nation",
+      "title": "Indian Removal Act",
+      "description": "Congress passed the Indian Removal Act, authorizing the president to negotiate with southern Native American tribes for their removal to federal territory west of the Mississippi River.",
+      "why": "White settlers wanted Native American lands for farming and gold mining, and President Jackson supported removal despite Supreme Court rulings in favor of Native American sovereignty.",
+      "standards": "SS5H2.d"
+    },
+    {
+      "id": "nation12",
+      "year": 1838,
+      "era": "A New Nation",
+      "title": "Trail of Tears",
+      "description": "The U.S. Army forcibly removed the Cherokee and other tribes from their southeastern homelands, resulting in thousands of deaths during the journey to Oklahoma Territory.",
+      "why": "Despite winning their case in the Supreme Court, the Cherokee were forced from their lands because President Jackson refused to enforce the Court's decision and Georgia was determined to remove them.",
+      "standards": "SS5H2.d"
+    },
+    {
+      "id": "civilwar1",
+      "year": 1850,
+      "era": "Civil War",
+      "title": "Compromise of 1850",
+      "description": "A series of bills admitted California as a free state, established the territories of New Mexico and Utah, ended the slave trade in Washington D.C., and enacted a stronger Fugitive Slave Act.",
+      "why": "The compromise temporarily eased tensions over slavery's expansion into western territories, balancing free and slave state interests to preserve the Union.",
+      "standards": "SS5H3.a"
+    },
+    {
+      "id": "civilwar2",
+      "year": 1852,
+      "era": "Civil War",
+      "title": "Uncle Tom's Cabin Published",
+      "description": "Harriet Beecher Stowe's novel about the harsh realities of slavery became a bestseller and influenced northern attitudes toward slavery.",
+      "why": "The book humanized enslaved people and illustrated the cruelties of slavery, helping to shift northern public opinion against the institution.",
+      "standards": "SS5H3.a"
+    },
+    {
+      "id": "civilwar3",
+      "year": 1854,
+      "era": "Civil War",
+      "title": "Kansas-Nebraska Act",
+      "description": "This law organized the territories of Kansas and Nebraska and repealed the Missouri Compromise by allowing popular sovereignty to determine whether slavery would be allowed.",
+      "why": "Senator Stephen Douglas wanted to organize these territories to facilitate a transcontinental railroad, but the slavery provisions reignited sectional tensions.",
+      "standards": "SS5H3.a"
+    },
+    {
+      "id": "civilwar4",
+      "year": 1857,
+      "era": "Civil War",
+      "title": "Dred Scott Decision",
+      "description": "The Supreme Court ruled that African Americans could not be citizens and that Congress could not prohibit slavery in the territories.",
+      "why": "The Court tried to resolve the slavery issue permanently but instead intensified sectional conflict by invalidating compromises and supporting southern views of slavery.",
+      "standards": "SS5H3.a"
+    },
+    {
+      "id": "civilwar5",
+      "year": 1859,
+      "era": "Civil War",
+      "title": "John Brown's Raid",
+      "description": "Abolitionist John Brown led a raid on the federal arsenal at Harpers Ferry, Virginia, hoping to start a slave uprising.",
+      "why": "Brown believed violent action was necessary to end slavery, and while his raid failed, it increased southern fears of slave rebellions and northern support for abolition.",
+      "standards": "SS5H3.a"
+    },
+    {
+      "id": "civilwar6",
+      "year": 1860,
+      "era": "Civil War",
+      "title": "Lincoln Elected President",
+      "description": "Abraham Lincoln, a Republican opposed to slavery's expansion, was elected president without winning any southern states.",
+      "why": "Lincoln's election convinced southern states they had lost political power in the federal government and could no longer protect slavery within the Union.",
+      "standards": "SS5H3.b"
+    },
+    {
+      "id": "civilwar7",
+      "year": 1860,
+      "era": "Civil War",
+      "title": "South Carolina Secedes",
+      "description": "South Carolina became the first state to secede from the Union following Lincoln's election.",
+      "why": "South Carolina saw Lincoln's election as a threat to slavery and believed states had the right to leave the Union if the federal government threatened their interests.",
+      "standards": "SS5H3.b"
+    },
+    {
+      "id": "civilwar8",
+      "year": 1861,
+      "era": "Civil War",
+      "title": "Civil War Begins",
+      "description": "Confederate forces fired on Fort Sumter in Charleston Harbor, beginning the Civil War.",
+      "why": "After several states seceded to form the Confederacy, tensions escalated over federal property in southern states, leading to military conflict.",
+      "standards": "SS5H3.b"
+    },
+    {
+      "id": "civilwar9",
+      "year": 1863,
+      "era": "Civil War",
+      "title": "Emancipation Proclamation",
+      "description": "President Lincoln issued the Emancipation Proclamation, declaring that all enslaved people in Confederate-controlled areas were to be set free.",
+      "why": "Lincoln issued the proclamation as a military measure to weaken the Confederacy, shift the war's focus to include ending slavery, and prevent European powers from supporting the South.",
+      "standards": "SS5H3.c"
+    },
+    {
+      "id": "civilwar10",
+      "year": 1863,
+      "era": "Civil War",
+      "title": "Battle of Gettysburg",
+      "description": "Union forces defeated the Confederate army at Gettysburg, Pennsylvania, in the war's bloodiest battle and a major turning point.",
+      "why": "General Lee had invaded the North hoping for a decisive victory that might convince the Union to make peace, but instead suffered a defeat that permanently weakened Confederate offensive capabilities.",
+      "standards": "SS5H3.c"
+    },
+    {
+      "id": "civilwar11",
+      "year": 1865,
+      "era": "Civil War",
+      "title": "Civil War Ends",
+      "description": "General Robert E. Lee surrendered to General Ulysses S. Grant at Appomattox Court House, Virginia, effectively ending the Civil War.",
+      "why": "After four years of fighting, the Confederacy was exhausted of resources and manpower, with its major cities captured and armies defeated by the Union's superior numbers and industrial might.",
+      "standards": "SS5H3.d"
+    },
+    {
+      "id": "civilwar12",
+      "year": 1865,
+      "era": "Civil War",
+      "title": "Lincoln Assassinated",
+      "description": "President Lincoln was shot by John Wilkes Booth at Ford's Theatre and died the next morning.",
+      "why": "Booth, a Confederate sympathizer, hoped to disrupt the Union government and potentially revive the Confederate cause by killing Lincoln and other government officials.",
+      "standards": "SS5H3.d"
+    },
+    {
+      "id": "civilwar13",
+      "year": 1865,
+      "era": "Civil War",
+      "title": "13th Amendment Ratified",
+      "description": "The 13th Amendment to the Constitution was ratified, abolishing slavery throughout the United States.",
+      "why": "The amendment was necessary to ensure that slavery ended everywhere in the United States, including border states that had remained in the Union and areas not covered by the Emancipation Proclamation.",
+      "standards": "SS5H3.d"
+    },
+    {
+      "id": "civilwar14",
+      "year": 1868,
+      "era": "Civil War",
+      "title": "14th Amendment Ratified",
+      "description": "The 14th Amendment granted citizenship to all persons born or naturalized in the United States, including former slaves, and guaranteed equal protection under the law.",
+      "why": "Congress sought to constitutionally protect the civil rights of former slaves and prevent former Confederate states from denying these rights through discriminatory state laws.",
+      "standards": "SS5H3.d"
+    },
+    {
+      "id": "civilwar15",
+      "year": 1870,
+      "era": "Civil War",
+      "title": "15th Amendment Ratified",
+      "description": "The 15th Amendment prohibited denying citizens the right to vote based on race, color, or previous condition of servitude.",
+      "why": "This amendment sought to guarantee political rights for African American men and prevent states from explicitly using race to deny voting rights.",
+      "standards": "SS5H3.d"
+    },
+    {
+      "id": "turn1",
+      "year": 1898,
+      "era": "Turn of the Century",
+      "title": "Spanish-American War",
+      "description": "The United States defeated Spain in a brief war, gaining control of territories including Puerto Rico, Guam, and the Philippines.",
+      "why": "The war began after the explosion of the USS Maine in Havana Harbor, with American involvement driven by sympathy for Cuban independence, business interests, and sensationalist newspaper coverage.",
+      "standards": "SS5H4.a"
+    },
+    {
+      "id": "turn2",
+      "year": 1901,
+      "era": "Turn of the Century",
+      "title": "Theodore Roosevelt Becomes President",
+      "description": "Following the assassination of President McKinley, Theodore Roosevelt became the youngest president in American history at age 42.",
+      "why": "Roosevelt's dynamic leadership style transformed the presidency, expanding executive power and American influence abroad while pursuing progressive domestic reforms.",
+      "standards": "SS5H4.a"
+    },
+    {
+      "id": "turn3",
+      "year": 1903,
+      "era": "Turn of the Century",
+      "title": "Wright Brothers' First Flight",
+      "description": "Orville and Wilbur Wright achieved the first powered, controlled aircraft flight at Kitty Hawk, North Carolina.",
+      "why": "This technological breakthrough launched the aviation age, revolutionizing transportation, warfare, and global connections in the 20th century.",
+      "standards": "SS5H4.a"
+    },
+    {
+      "id": "turn4",
+      "year": 1914,
+      "era": "Turn of the Century",
+      "title": "Panama Canal Opens",
+      "description": "The Panama Canal opened, connecting the Atlantic and Pacific Oceans and revolutionizing maritime transportation.",
+      "why": "The canal dramatically shortened shipping routes, strengthened American naval power by allowing faster fleet movement between oceans, and demonstrated American engineering and geopolitical influence.",
+      "standards": "SS5H4.a"
+    },
+    {
+      "id": "turn5",
+      "year": 1917,
+      "era": "Turn of the Century",
+      "title": "U.S. Enters World War I",
+      "description": "The United States entered World War I on the side of the Allied Powers after years of neutrality.",
+      "why": "German submarine warfare against American ships and the Zimmermann Telegram (proposing a German alliance with Mexico against the US) convinced President Wilson to enter the war despite earlier neutrality pledges.",
+      "standards": "SS5H4.b"
+    },
+    {
+      "id": "turn6",
+      "year": 1918,
+      "era": "Turn of the Century",
+      "title": "World War I Ends",
+      "description": "World War I ended with an Allied victory after more than four years of brutal conflict.",
+      "why": "American troops helped break the stalemate on the Western Front, while Germany's resources were exhausted and its allies defeated, leading to an armistice and eventually the Treaty of Versailles.",
+      "standards": "SS5H4.b"
+    },
+    {
+      "id": "turn7",
+      "year": 1919,
+      "era": "Turn of the Century",
+      "title": "Treaty of Versailles",
+      "description": "The Treaty of Versailles officially ended World War I and established the League of Nations, though the U.S. Senate rejected American membership.",
+      "why": "President Wilson sought a 'peace without victory' and a new international order through his Fourteen Points, but domestic opposition to foreign entanglements and concerns about sovereignty prevented U.S. ratification.",
+      "standards": "SS5H4.b"
+    },
+    {
+      "id": "depression1",
+      "year": 1929,
+      "era": "Depression & WWII",
+      "title": "Stock Market Crash",
+      "description": "The stock market crashed on 'Black Tuesday,' triggering the Great Depression, the worst economic crisis in U.S. history.",
+      "why": "Overspeculation in stocks, excessive borrowing, uneven distribution of wealth, overproduction of goods, and weak banking regulations created an unsustainable bubble that finally burst.",
+      "standards": "SS5H5.a"
+    },
+    {
+      "id": "depression2",
+      "year": 1932,
+      "era": "Depression & WWII",
+      "title": "Franklin D. Roosevelt Elected",
+      "description": "Franklin D. Roosevelt defeated Herbert Hoover in a landslide election, promising a 'New Deal' to address the Great Depression.",
+      "why": "Hoover's perceived failure to effectively address the Depression and Roosevelt's message of hope and action resonated with voters suffering from economic hardship.",
+      "standards": "SS5H5.a"
+    },
+    {
+      "id": "depression3",
+      "year": 1933,
+      "era": "Depression & WWII",
+      "title": "New Deal Begins",
+      "description": "President Roosevelt launched numerous programs and agencies to provide relief, recovery, and reform during the Great Depression.",
+      "why": "Roosevelt believed government intervention was necessary to address the economic crisis, putting people to work, regulating the economy, and providing a safety net for vulnerable Americans.",
+      "standards": "SS5H5.a"
+    },
+    {
+      "id": "depression4",
+      "year": 1935,
+      "era": "Depression & WWII",
+      "title": "Social Security Act",
+      "description": "The Social Security Act established a system of old-age benefits, unemployment insurance, and aid to families with dependent children.",
+      "why": "The economic insecurity revealed by the Depression convinced many Americans that government should provide a safety net to protect vulnerable citizens from poverty in old age or during economic downturns.",
+      "standards": "SS5H5.a"
+    },
+    {
+      "id": "depression5",
+      "year": 1939,
+      "era": "Depression & WWII",
+      "title": "World War II Begins in Europe",
+      "description": "Germany invaded Poland, beginning World War II in Europe, though the United States remained officially neutral.",
+      "why": "Nazi Germany under Adolf Hitler pursued aggressive expansion to gain 'living space,' rebuild German power, and dominate Europe, while other nations initially tried to avoid war through appeasement.",
+      "standards": "SS5H5.b"
+    },
+    {
+      "id": "depression6",
+      "year": 1941,
+      "era": "Depression & WWII",
+      "title": "Pearl Harbor Attack",
+      "description": "Japan attacked the U.S. naval base at Pearl Harbor, Hawaii, killing more than 2,400 Americans and destroying numerous ships and aircraft.",
+      "why": "Japan sought to neutralize the U.S. Pacific Fleet to prevent American interference with its expansion in Asia, as U.S. economic sanctions had restricted Japan's access to oil and other resources.",
+      "standards": "SS5H5.b"
+    },
+    {
+      "id": "depression7",
+      "year": 1942,
+      "era": "Depression & WWII",
+      "title": "Japanese American Internment",
+      "description": "The U.S. government forced over 120,000 Japanese Americans, most of them U.S. citizens, into internment camps.",
+      "why": "After Pearl Harbor, fear, prejudice, and wartime hysteria led to suspicion of Japanese Americans' loyalty, resulting in this mass violation of civil liberties despite no evidence of widespread disloyalty.",
+      "standards": "SS5H5.b"
+    },
+    {
+      "id": "depression8",
+      "year": 1944,
+      "era": "Depression & WWII",
+      "title": "D-Day Invasion",
+      "description": "Allied forces landed on the beaches of Normandy, France, beginning the liberation of Western Europe from Nazi control.",
+      "why": "This massive amphibious invasion established a crucial Western Front, forcing Germany to fight on multiple fronts and accelerating the defeat of Nazi Germany.",
+      "standards": "SS5H5.c"
+    },
+    {
+      "id": "depression9",
+      "year": 1945,
+      "era": "Depression & WWII",
+      "title": "Atomic Bombs & End of WWII",
+      "description": "The United States dropped atomic bombs on Hiroshima and Nagasaki, leading to Japan's surrender and the end of World War II.",
+      "why": "President Truman authorized using these new weapons to avoid a costly invasion of Japan that military planners estimated would cause hundreds of thousands of American and millions of Japanese casualties.",
+      "standards": "SS5H5.c"
+    },
+    {
+      "id": "depression10",
+      "year": 1945,
+      "era": "Depression & WWII",
+      "title": "United Nations Established",
+      "description": "The United Nations was founded to maintain international peace and security, develop friendly relations among nations, and promote social progress.",
+      "why": "After two devastating world wars, nations sought to create an effective international organization that could prevent future conflicts through collective security and cooperation.",
+      "standards": "SS5H5.c"
+    },
+    {
+      "id": "coldwar1",
+      "year": 1947,
+      "era": "Cold War Era",
+      "title": "Truman Doctrine",
+      "description": "President Truman announced that the United States would provide political, military, and economic assistance to democratic nations under threat from external or internal authoritarian forces.",
+      "why": "The Soviet Union was expanding its influence in Eastern Europe and pressuring countries like Greece and Turkey, leading Truman to articulate a policy of containing communism.",
+      "standards": "SS5H6.a"
+    },
+    {
+      "id": "coldwar2",
+      "year": 1948,
+      "era": "Cold War Era",
+      "title": "Berlin Airlift",
+      "description": "When the Soviet Union blockaded West Berlin, the United States and its allies airlifted food, fuel, and supplies to the isolated city for nearly a year.",
+      "why": "The Soviets blocked land access to West Berlin (located inside Soviet-controlled East Germany) to force the Allies out, but the airlift allowed Berlin to survive without military confrontation.",
+      "standards": "SS5H6.a"
+    },
+    {
+      "id": "coldwar3",
+      "year": 1950,
+      "era": "Cold War Era",
+      "title": "Korean War Begins",
+      "description": "North Korea invaded South Korea, beginning a three-year conflict in which the United States led UN forces supporting South Korea.",
+      "why": "Communist North Korea, supported by the Soviet Union and China, sought to unify the Korean peninsula under communist rule, while the U.S. intervened to contain communist expansion in Asia.",
+      "standards": "SS5H6.a"
+    },
+    {
+      "id": "coldwar4",
+      "year": 1954,
+      "era": "Cold War Era",
+      "title": "Brown v. Board of Education",
+      "description": "The Supreme Court unanimously ruled that racial segregation in public schools was unconstitutional, overturning the 'separate but equal' doctrine.",
+      "why": "The NAACP and African American parents challenged segregated schools, and the Court concluded that separate educational facilities were inherently unequal and violated the 14th Amendment.",
+      "standards": "SS5H6.b"
     }
-  ],
-  "lastUpdated": "2025-03-03T12:00:00Z"
+  ]
 }
